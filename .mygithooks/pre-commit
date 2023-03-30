@@ -2,4 +2,4 @@
 
 echo "pre-commit执行啦1"
 
-eslint src
+# npm start
