@@ -1,1 +1,3 @@
+#!/usr/bin/env sh
+
 echo pre-commit执行啦
